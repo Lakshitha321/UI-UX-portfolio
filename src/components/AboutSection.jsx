@@ -36,7 +36,7 @@ const AboutSection = () => {
                 Get In Touch
               </a>
               <a
-                href="/Lakshitha v2.pdf"
+                href="/Lakshitha v4.pdf"
                 className="bg-slate-800 hover:bg-slate-700 text-white py-3 px-6 rounded-lg shadow-md transition text-center"
               >
                 Download CV
